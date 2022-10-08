@@ -1,5 +1,6 @@
 # realtime_mandelbrot
-A **Realtime Mandelbrot** renderer in C++ using SFML
+Wow, this is what we all have been waiting for:
+## A **Realtime Mandelbrot** renderer in C++ using SFML
 * You can zoom and pan using your mouse and mouse wheel.
 
 ## I made a video about this project.
